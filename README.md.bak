@@ -1,5 +1,5 @@
  <p align="center">
-  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">J𝖀𝗦𝐓Λ-𝗧𝙕_𝓜𝓓-𝓥𝟏</h1>
+  <h1 align="center" style="font-family: 'EB Garamond'; font-size: 3em;">𝓒𝓡𝓔𝓔𝓟𝓨_𝓜𝓓-𝓥𝟏</h1>
 </p>
 
 <p align="center">
