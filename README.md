@@ -69,7 +69,7 @@
 ### Get Your Session ID
 <p align="center">
   <a href="https://creepy-session.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Get%20Session-ID-blue?style=for-the-badge&logo=key" alt="Get Session ID" />
+    <img src="https://files.catbox.moe/xeycz1.jpeg" alt="Get Session ID" />
   </a>
 </p>
 
@@ -96,7 +96,7 @@
 ---
 
 ### Deploy in Replit  
-<a href="https://repl.it/github.com/DannyTech20/CREEPY_MD-V1" target="_blank">
+<a href="https://repl.it/github.com/JustaTz0/CREEPY_MD-V1" target="_blank">
   <img src="https://img.shields.io/badge/Replit-orange?style=for-the-badge&logo=replit" alt="Deploy in Replit" />
 </a>
 
