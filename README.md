@@ -127,7 +127,7 @@
 
 <h2 align="center">📲 Join the Community</h2>
 
-<a href="https://whatsapp.com/channel/0029VacQFw65Ui2gGv0Kwk1r" target="_blank">
+<a href="https://whatsapp.com/channel/0029Vap2lUBJuyA8HLdfho47" target="_blank">
   <img src="https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png" alt="Join WhatsApp" />
 </a>
 
