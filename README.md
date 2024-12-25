@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/f6j3fl.jpeg" alt="Main Graphic" />
+  <img src="https://files.catbox.moe/xeycz1.jpeg="Main Graphic" />
 </p>
 
 <p align="center">
@@ -15,22 +15,22 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DannyTech20?tab=followers">
-    <img src="https://img.shields.io/github/followers/DannyTech20?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
+  <a href="https://github.com/JustaTz0?tab=followers">
+    <img src="https://img.shields.io/github/followers/JustaTz0?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/stargazers/">
-    <img src="https://img.shields.io/github/stars/DannyTech20/CREEPY_MD-V1?color=blue&style=for-the-badge&logo=starship" alt="Stars" />
+  <a href="https://github.com/JustaTz0/CREEPY_MD-V1/stargazers/">
+    <img src="https://img.shields.io/github/stars/JustaTz0/CREEPY_MD-V1?color=blue&style=for-the-badge&logo=starship" alt="Stars" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/network/members">
-    <img src="https://img.shields.io/github/forks/DannyTech20/CREEPY_MD-V1?color=red&style=for-the-badge&logo=git" alt="Forks" />
+  <a href="https://github.com/JustaTz0/CREEPY_MD-V1/network/members">
+    <img src="https://img.shields.io/github/forks/JustaTz0/CREEPY_MD-V1?color=red&style=for-the-badge&logo=git" alt="Forks" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/watchers">
-    <img src="https://img.shields.io/github/watchers/DannyTech20/CREEPY_MD-V1?label=Watches&style=for-the-badge&color=brightgreen" alt="Watches" />
+  <a href="https://github.com/JustaTz0/CREEPY_MD-V1/watchers">
+    <img src="https://img.shields.io/github/watchers/JustaTz0/CREEPY_MD-V1?label=Watches&style=for-the-badge&color=brightgreen" alt="Watches" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/">
-    <img src="https://img.shields.io/github/repo-size/DannyTech20/CREEPY_MD-V1?style=for-the-badge&color=orange" alt="Repo Size" />
+  <a href="https://github.com/JustaTz0/CREEPY_MD-V1/">
+    <img src="https://img.shields.io/github/repo-size/JustaTz0/CREEPY_MD-V1?style=for-the-badge&color=orange" alt="Repo Size" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/graphs/commit-activity">
+  <a href="https://github.com/JustaTz0/CREEPY_MD-V1/graphs/commit-activity">
     <img src="https://img.shields.io/badge/Maintained%3F-Yes-yellow?style=for-the-badge" alt="Maintenance" />
   </a>
 </p>
@@ -53,14 +53,14 @@
 
 <h3 align="left">1️⃣ Fork the Repo</h3>
 <p align="left">
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/fork">
+  <a href="https://github.com/JustaTz0/CREEPY_MD-V1/fork">
     <img src="https://img.shields.io/badge/Fork%20Repo-black?style=for-the-badge&logo=github" alt="Fork Button" />
   </a>
 </p>
 
 <h3 align="left">2️⃣ Download the ZIP File</h3>
 <p align="left">
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/archive/refs/heads/main.zip">
+  <a href="https://github.com/JustaTz0/CREEPY_MD-V1/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download%20ZIP-blue?style=for-the-badge&logo=files" alt="Download ZIP" />
   </a>
 </p>
@@ -138,10 +138,10 @@
 <h2 align="center">🎉 Thank You, My Supporters!</h2>
 
 <p align="center">
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/stargazers">
+  <a href="https://github.com/JustaTz0/CREEPY_MD-V1/stargazers">
     <img src="https://img.shields.io/badge/Stars-User%20List-blue?style=for-the-badge&logo=starship" alt="Starred Users" />
   </a>
-  <a href="https://github.com/DannyTech20/CREEPY_MD-V1/network/members">
+  <a href="https://github.com/JustaTz0/CREEPY_MD-V1/network/members">
     <img src="https://img.shields.io/badge/Forked%20By-User%20List-green?style=for-the-badge&logo=github" alt="Forked Users" />
   </a>
 </p>
