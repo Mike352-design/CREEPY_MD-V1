@@ -69,7 +69,7 @@
 ### Get Your Session ID
 <p align="center">
   <a href="https://creepy-session.onrender.com" target="_blank">
-    <img src="https://files.catbox.moe/xeycz1.jpeg" alt="Get Session ID" />
+    <img src="" alt="Get Session ID" />
   </a>
 </p>
 
