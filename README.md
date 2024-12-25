@@ -75,7 +75,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Separator Line" />
+  <img src="https://files.catbox.moe/xeycz1.jpeg" alt="Separator Line" />
 </p>
 
 <h2 align="center">📋 Deployment Tutorial</h2>
